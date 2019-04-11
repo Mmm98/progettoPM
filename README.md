@@ -1,2 +1,2 @@
 # progettoPM
-E' un bel progetto di prova per il corso di programmazione modulare
+E' proprio un bel progetto di prova per il corso di programmazione modulare
